@@ -20,12 +20,12 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="2.6441176"
-     inkscape:cx="179.83315"
-     inkscape:cy="170"
-     inkscape:window-width="1918"
-     inkscape:window-height="1560"
-     inkscape:window-x="1288"
-     inkscape:window-y="106"
+     inkscape:cx="180.02225"
+     inkscape:cy="170.1891"
+     inkscape:window-width="2641"
+     inkscape:window-height="1649"
+     inkscape:window-x="1204"
+     inkscape:window-y="20"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg54" />
   <defs
@@ -43,31 +43,29 @@
      style="fill:none;stroke:#000000;stroke-width:1;"
      id="rect6" />
   <text
-     x="129.39131"
-     y="50.188"
-     style="font-style:italic;font-weight:bold;font-size:16.7294px;fill:#000000;stroke-width:0.999996"
-     id="text8"
-     transform="scale(0.89621425,1.1158046)">да</text>
+     x="116.00"
+     y="56.00"
+     style="fill:#000000;font-size:14pt;font-weight:bold;font-style:italic;"
+     id="text8">да</text>
   <rect
-     x="310.01746"
-     y="39.179024"
-     width="40"
-     height="20"
-     style="fill:none;stroke:#000000;stroke-width:1"
+     x="284px"
+     y="41px"
+     width="40px"
+     height="20px"
+     style="fill:none;stroke:#000000;stroke-width:1;"
      id="rect10" />
   <text
-     x="343.74283"
-     y="49.50761"
-     style="font-style:italic;font-weight:bold;font-size:17.0572px;fill:#000000;stroke-width:1"
-     id="text12"
-     transform="scale(0.91377816,1.0943575)">нет</text>
+     x="288.00"
+     y="56.00"
+     style="fill:#000000;font-size:14pt;font-weight:bold;font-style:italic;"
+     id="text12">нет</text>
   <rect
-     x="229.99998"
-     y="104"
-     width="97.012817"
-     rx="16.168802"
-     height="26"
-     style="fill:none;stroke:#000000;stroke-width:1"
+     x="230px"
+     y="104px"
+     width="90px"
+     rx="15"
+     height="26px"
+     style="fill:none;stroke:#000000;stroke-width:1;"
      id="rect14" />
   <text
      x="237.00"
@@ -83,11 +81,10 @@
      style="fill:none;stroke:#000000;stroke-width:1;"
      id="rect18" />
   <text
-     x="228.87036"
-     y="264.74713"
-     style="font-weight:bold;font-size:20.2435px;fill:#6aac7c;stroke-width:1"
-     id="text20"
-     transform="scale(0.9489144,1.0538358)">выжил</text>
+     x="217.00"
+     y="279.00"
+     style="fill:#6AAC7C;font-size:16pt;font-weight:bold;"
+     id="text20">выжил</text>
   <rect
      x="48px"
      y="182px"
@@ -97,9 +94,9 @@
      style="fill:none;stroke:#000000;stroke-width:1;"
      id="rect22" />
   <text
-     x="53"
-     y="200"
-     style="font-weight:bold;font-size:21.3333px;fill:#a05078"
+     x="57.00"
+     y="200.00"
+     style="fill:#A05078;font-size:16pt;font-weight:bold;"
      id="text24">умер</text>
   <rect
      x="125px"
@@ -110,14 +107,14 @@
      style="fill:none;stroke:#000000;stroke-width:1;"
      id="rect26" />
   <text
-     x="129"
-     y="278"
-     style="font-weight:bold;font-size:21.3333px;fill:#a05078"
+     x="139.00"
+     y="278.00"
+     style="fill:#A05078;font-size:16pt;font-weight:bold;"
      id="text28">умер</text>
   <text
-     x="61.221817"
-     y="131.2887"
-     style="font-weight:bold;font-size:18.6667px;fill:#000000"
+     x="85.00"
+     y="131.00"
+     style="fill:#000000;font-size:14pt;font-weight:bold;"
      id="text38">возраст &gt; 9,5?</text>
   <text
      x="139.00"
